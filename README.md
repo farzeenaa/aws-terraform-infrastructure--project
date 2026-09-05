@@ -37,7 +37,3 @@ terraform plan
 terraform apply
 ```
 
-## Future Scalability Roadmap
-* [ ] Migrate local state files to remote backends utilizing encrypted AWS S3 storage with DynamoDB state locking mechanisms.
-* [ ] Architect Multi-AZ configuration using split Private Subnets to separate compute engines from application databases.
-* [ ] Attach Application Load Balancers (ALB) and Auto Scaling Groups (ASG) to handle high-traffic scalability automatically.

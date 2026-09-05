@@ -45,6 +45,8 @@ Below is the verification showing the infrastructure running live in the AWS Con
 
 <img width="975" height="403" alt="image" src="https://github.com/user-attachments/assets/c97ace40-38e7-45c6-8310-722cb755d258" />
 <img width="1080" height="296" alt="image" src="https://github.com/user-attachments/assets/1bf6e427-80a7-409a-a0d9-6e77b1e265a9" />
+<img width="975" height="362" alt="image" src="https://github.com/user-attachments/assets/f965cac0-723c-408c-96d0-444509da7026" />
+
 
 
 
